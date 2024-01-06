@@ -1,2 +1,2 @@
 #!/bis/bash
-sudo chown betty hello
+chown betty hello
