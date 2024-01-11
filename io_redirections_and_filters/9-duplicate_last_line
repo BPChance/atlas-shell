@@ -1,0 +1,2 @@
+#!/bin/bash
+if [ -e "iacta" ] \ then \ tail -n 1 "iacta" >> "iacta" \ fi
